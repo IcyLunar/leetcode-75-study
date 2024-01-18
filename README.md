@@ -22,7 +22,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 ### 진행 과정
 
-| 분류           | 진행일 | 진행도                                                                              |
+| 유형           | 진행일 | 진행도                                                                              |
 | -------------- | ------ | ----------------------------------------------------------------------------------- |
 | Array / String |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div>|
 | Two Pointers   |    | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
@@ -52,8 +52,38 @@ https://leetcode.com/studyplan/leetcode-75/
 #### 폴더, 파일명 규칙
 
 - 모든 폴더와 파일명은 소문자 영어로만 작성한다.
-- 공백은 `_`로 대체한다.
+- 공백은 `-`로 대체한다.
 - ex) `ice0208 > two_pointers > move_zeroes.py`
+
+<details>
+  <summary>유형별 폴더명</summary>
+
+  | 분류                      | 폴더명                 |
+  | ------------------------- | ---------------------- |
+  | Array / String            | array_string           |
+  | Two Pointers              | two-pointers           |
+  | Sliding Window            | sliding-window         |
+  | Prefix Sum                | prefix-sum             |
+  | Hash Map / Set           | hash-map_set           |
+  | Stack                     | stack                  |
+  | Queue                     | queue                  |
+  | Linked List               | linked-list            |
+  | Binary Tree - DFS        | binary-tree-dfs        |
+  | Binary Tree - BFS        | binary-tree-bfs        |
+  | Binary Search Tree       | binary-search-tree     |
+  | Graphs - DFS              | graphs-dfs             |
+  | Graphs - BFS              | graphs-bfs             |
+  | Heap / Priority Queue    | heap_priority-queue    |
+  | Binary Search            | binary-search          |
+  | Backtracking              | backtracking           |
+  | DP - 1D                  | dp-1d                  |
+  | DP - Multidimensional     | dp-multidimensional    |
+  | Bit Manipulation          | bit-manipulation       |
+  | Trie                      | trie                   |
+  | Intervals                 | intervals              |
+  | Monotonic Stack           | monotonic-stack        |
+
+</details>
 
 #### 스터디 진행 규칙
 
