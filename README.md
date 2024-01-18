@@ -1,10 +1,3 @@
-<style>
-    .v-c {
-        display: flex;
-        align-items: center;
-    }
-</style>
-
 # Leetcode 75 Study
 
 ### 내용
