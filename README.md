@@ -7,6 +7,10 @@
 
 # Leetcode 75 Study
 
+### 내용
+
+https://leetcode.com/studyplan/leetcode-75/
+
 ### 진행 과정
 
 | 분류           | 진행일 | 진행도                                                                              |
