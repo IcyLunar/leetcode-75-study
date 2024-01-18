@@ -46,7 +46,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - 모든 폴더와 파일명은 소문자 영어로만 작성한다.
 - 공백은 `-`로 대체한다.
-- ex) `ice0208 > two_pointers > move_zeroes.py`
+- ex) `ice0208 > two-pointers > move-zeroes.py`
 
 <details>
   <summary>유형별 폴더명</summary>
