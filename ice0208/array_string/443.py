@@ -1,41 +1,28 @@
 class Solution:
     def compress(self, chars: list[str]) -> int:
-        answer = 0
-        new_chars = []
-
-        before = None
-        cnt = 0
-        for char in chars:
-            if before == None:
+        before = chars[-1]
+        cnt = 1
+        s, e = len(chars) - 1, len(chars) - 1
+        for i in range(len(chars) - 2, -1, -1):
+            if chars[i] == before:
                 cnt += 1
-                before = char
-                new_chars.append(char)
-                continue
-
-            if before == char:
-                cnt += 1
+                s -= 1
             else:
-                if cnt == 1:
-                    answer += 1
-                else:
-                    answer += 1
-                    answer += cnt // 10 + 1
-                    new_chars.extend(list(str(cnt)))
+                del chars[s + 1 : e + 1]
+                if cnt > 1:
+                    for cc in reversed(list(str(cnt))):
+                        chars.insert(s + 1, cc)
 
-                before = char
-                new_chars.append(char)
+                before = chars[i]
                 cnt = 1
+                s, e = i, i
 
-        if cnt == 1:
-            answer += 1
-        else:
-            answer += 1
-            answer += cnt // 10 + 1
-            new_chars.extend(list(str(cnt)))
+        del chars[s + 1 : e + 1]
+        if cnt > 1:
+            for cc in reversed(list(str(cnt))):
+                chars.insert(s + 1, cc)
 
-        chars.clear()
-        chars.extend(new_chars)
-        return answer
+        return len(chars)
 
 
 if __name__ == "__main__":
