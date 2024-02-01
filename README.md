@@ -1,5 +1,7 @@
 # Leetcode 75 Study
 
+(2024.01.23 ~ 2024.03 예정)
+
 ### 내용
 
 https://leetcode.com/studyplan/leetcode-75/  
@@ -17,9 +19,9 @@ https://leetcode.com/studyplan/leetcode-75/
 
 | 유형           | 진행일 | 진행도                                                                              |
 | -------------- | ------ | ----------------------------------------------------------------------------------- |
-| Array / String |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div>|
-| Two Pointers   |    | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Sliding Window |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Array / String | 1/23 ~ 1/28 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div>|
+| Two Pointers   | 1/23 ~ 2/4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
+| Sliding Window | 1/28 ~ 2/4 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Prefix Sum     |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Hash Map / Set |  |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Stack |  |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
