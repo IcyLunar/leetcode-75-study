@@ -17,13 +17,19 @@ https://leetcode.com/studyplan/leetcode-75/
 
 ### 진행 과정
 
-| 유형           | 진행일 | 진행도                                                                              |
-| -------------- | ------ | ----------------------------------------------------------------------------------- |
-| Array / String | 1/23 ~ 1/28 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div>|
-| Two Pointers   | 1/23 ~ 2/4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
-| Sliding Window | 1/28 ~ 2/4 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Prefix Sum     |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Hash Map / Set |  |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| 회차 | 날짜       | 문제 수 | 특이사항 |
+| :-: | :-------: | :-: | :----: |
+| 1 | 1/23 ~ 1/28 | 10 | |
+| 2 | 1/29 ~ 2/4 | 10 | |
+| 3 | 2/5 ~ 2/18 | 10 | 설날 연휴가 겹쳐서 2주동안 진행 |
+
+| 유형           | 진행 회차 | 진행도                                                                              |
+| -------------- | :------: | ----------------------------------------------------------------------------------- |
+| Array / String | 1 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div>|
+| Two Pointers   | 1~2 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Sliding Window | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Prefix Sum     | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Hash Map / Set | 2~3 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
 | Stack |  |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Queue |  |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Linked List |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
