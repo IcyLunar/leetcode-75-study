@@ -57,7 +57,7 @@ https://leetcode.com/studyplan/leetcode-75/
 - ex) `ice0208 > two-pointers > move-zeroes.py`
 
 <details>
-  <summary>유형별 폴더명</summary>
+  <summary>유형별 폴더명 예시 (필수x)</summary>
 
   | 분류                      | 폴더명                 |
   | ------------------------- | ---------------------- |
@@ -85,6 +85,8 @@ https://leetcode.com/studyplan/leetcode-75/
   | Monotonic Stack           | monotonic-stack        |
 
 </details>
+
+- 폴더명과 파일명은 본인이 구분할 수 있을 정도 내에서 자유롭게 지정
 
 #### 스터디 진행 규칙
 
