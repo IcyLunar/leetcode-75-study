@@ -17,13 +17,19 @@ https://leetcode.com/studyplan/leetcode-75/
 
 ### 진행 과정
 
-| 유형           | 진행일 | 진행도                                                                              |
-| -------------- | ------ | ----------------------------------------------------------------------------------- |
-| Array / String | 1/23 ~ 1/28 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div>|
-| Two Pointers   | 1/23 ~ 2/4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
-| Sliding Window | 1/28 ~ 2/4 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Prefix Sum     |    |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Hash Map / Set |  |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| 회차 | 날짜       | 문제 수 | 특이사항 |
+| :-: | :-------: | :-: | :----: |
+| 1 | 1/23 ~ 1/28 | 10 | |
+| 2 | 1/29 ~ 2/4 | 10 | |
+| 3 | 2/5 ~ 2/18 | 10 | 설날 연휴가 겹쳐서 2주동안 진행 |
+
+| 유형           | 진행 회차 | 진행도                                                                              |
+| -------------- | :------: | ----------------------------------------------------------------------------------- |
+| Array / String | 1 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div>|
+| Two Pointers   | 1~2 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Sliding Window | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Prefix Sum     | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Hash Map / Set | 2~3 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
 | Stack |  |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Queue |  |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Linked List |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
@@ -51,7 +57,7 @@ https://leetcode.com/studyplan/leetcode-75/
 - ex) `ice0208 > two-pointers > move-zeroes.py`
 
 <details>
-  <summary>유형별 폴더명</summary>
+  <summary>유형별 폴더명 예시 (필수x)</summary>
 
   | 분류                      | 폴더명                 |
   | ------------------------- | ---------------------- |
@@ -80,9 +86,11 @@ https://leetcode.com/studyplan/leetcode-75/
 
 </details>
 
+- 폴더명과 파일명은 본인이 구분할 수 있을 정도 내에서 자유롭게 지정
+
 #### 스터디 진행 규칙
 
-- `해당 주차에 작업할 브랜치`를 만든다. 브랜치 규칙은 밑에서 확인한다.
+- `해당 회차에 작업할 브랜치`를 만든다. 브랜치 규칙은 밑에서 확인한다.
 - `자신의 영문 닉네임으로 폴더`를 만든다. 
 - 자신의 폴더안에 `해결한 문제의 유형 폴더`를 생성한 뒤, 그 폴더안에 `소스 코드` 혹은 `유형별 회고록`을 업로드 한다.
 - `commit 규칙`을 지켜서 커밋한다.
@@ -91,8 +99,8 @@ https://leetcode.com/studyplan/leetcode-75/
 
 #### BRANCH 규칙
 
-- 브랜치는 주차마다 개인이 작업할 브랜치를 생성한다.
-- 브랜치 이름은 닉네임과 해당 주차로 구성한다. ex) `ice0208/5주차`
+- 브랜치는 각 회차마다 개인이 작업할 브랜치를 생성한다.
+- 브랜치 이름은 닉네임과 해당 회차로 구성한다. ex) `ice0208/5회차`
 
 #### COMMIT 규칙
 
