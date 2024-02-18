@@ -29,12 +29,12 @@ https://leetcode.com/studyplan/leetcode-75/
 | Two Pointers   | 1~2 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Sliding Window | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Prefix Sum     | 2 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
-| Hash Map / Set | 2~3 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=25" /></div> |
-| Stack | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Queue | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Linked List | 3~ | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Binary Tree - DFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Binary Tree - BFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Hash Map / Set | 2~3 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Stack | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Queue | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Linked List | 3~4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=50" /></div> |
+| Binary Tree - DFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Binary Tree - BFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Binary Search Tree |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Graphs - DFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Graphs - BFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
