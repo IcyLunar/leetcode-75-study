@@ -23,6 +23,7 @@ https://leetcode.com/studyplan/leetcode-75/
 | 2 | 1/29 ~ 2/4 | 10 | |
 | 3 | 2/5 ~ 2/18 | 10 | 설날 연휴가 겹쳐서 2주동안 진행 |
 | 4 | 2/19 ~ 2/25 | 10 | |
+| 5 | 2/26 ~ 3/3 | 10 | |
 
 | 유형           | 진행 회차 | 진행도                                                                              |
 | -------------- | :------: | ----------------------------------------------------------------------------------- |
@@ -33,13 +34,13 @@ https://leetcode.com/studyplan/leetcode-75/
 | Hash Map / Set | 2~3 |  <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Stack | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Queue | 3 |   <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
-| Linked List | 3~4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=50" /></div> |
-| Binary Tree - DFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Binary Tree - BFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Binary Search Tree |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Graphs - DFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Graphs - BFS |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Heap / Priority Queue |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Linked List | 3~4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Binary Tree - DFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Binary Tree - BFS | 4 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Binary Search Tree | 5 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Graphs - DFS | 5 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Graphs - BFS | 5 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Heap / Priority Queue | 5~6 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Binary Search |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Backtracking |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | DP - 1D |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
