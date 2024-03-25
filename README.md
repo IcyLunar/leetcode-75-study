@@ -27,6 +27,7 @@ https://leetcode.com/studyplan/leetcode-75/
 | 6 | 3/4 ~ 3/10 | 5 | 개강으로 인해 주 5문제로 축소 |
 | 7 | 3/11 ~ 3/17 | 5 | |
 | 8 | 3/18 ~ 3/24 | 5 | |
+| 9 | 3/25 ~ 3/31 | 5 | |
 
 | 유형           | 진행 회차 | 진행도                                                                              |
 | -------------- | :------: | ----------------------------------------------------------------------------------- |
@@ -46,10 +47,10 @@ https://leetcode.com/studyplan/leetcode-75/
 | Heap / Priority Queue | 5~6 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Binary Search | 6~7 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Backtracking | 7 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
-| DP - 1D | 7~8 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=50" /></div> |
-| DP - Multidimensional | 8~9 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Bit Manipulation |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Trie |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| DP - 1D | 7~8 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| DP - Multidimensional | 8~9 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=75" /></div> |
+| Bit Manipulation | 9 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Trie | 9~10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Intervals |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 | Monotonic Stack |  | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
 
