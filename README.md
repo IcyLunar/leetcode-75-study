@@ -1,6 +1,6 @@
 # Leetcode 75 Study
 
-(2024.01.23 ~ 2024.03 예정)
+(2024.01.23 ~ 2024.04.07)
 
 ### 내용
 
@@ -51,9 +51,9 @@ https://leetcode.com/studyplan/leetcode-75/
 | DP - 1D | 7~8 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | DP - Multidimensional | 8~9 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 | Bit Manipulation | 9 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
-| Trie | 9~10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=50" /></div> |
-| Intervals | 10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
-| Monotonic Stack | 10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=0" /></div> |
+| Trie | 9~10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Intervals | 10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
+| Monotonic Stack | 10 | <div class="v-c"><img src="https://ice-progress.vercel.app/api/progress?progress=100" /></div> |
 
 ### 진행 방법
 
