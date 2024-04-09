@@ -1,7 +1,8 @@
 # Leetcode 75 Study
 
 (2024.01.23 ~ 2024.04.07)  
-**[1회 풀기 완료]**
+- **[1회 풀기 완료]**
+- **[추후 복습 예정]**
 
 <table><tr>       
 <td align="center"><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="100px" alt=""/><br /><strong>🎯 24.04.07</strong></sub></a><br /></td>    
